@@ -1,0 +1,7 @@
+numpy
+soundfile
+scipy
+matplotlib
+pyqt5
+adaptfilt
+padasip
